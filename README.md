@@ -16,3 +16,5 @@ https://www.newscientist.com/article/2143499-ships-fooled-in-gps-spoofing-attack
 https://mobile.nytimes.com/2017/09/07/us/politics/russia-facebook-twitter-election.html
 
 http://www.spiegel.de/international/germany/how-germany-is-preparing-for-russian-election-meddling-a-1166461.html
+
+https://arstechnica.com/tech-policy/2017/09/report-facebook-sold-2016-election-related-ads-to-shadowy-russian-company/
