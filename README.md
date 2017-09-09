@@ -12,3 +12,5 @@ Not Russia but decide where to go
 https://www.darkreading.com/yahoo-hack-suspect-to-be-extradited-to-us/d/d-id/1329689?piddl_msgorder=asc
 
 https://www.newscientist.com/article/2143499-ships-fooled-in-gps-spoofing-attack-suggest-russian-cyberweapon/#%2EWZy1mN2_kyQ%2Elinkedin
+
+https://mobile.nytimes.com/2017/09/07/us/politics/russia-facebook-twitter-election.html
