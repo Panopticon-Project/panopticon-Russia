@@ -18,3 +18,5 @@ https://mobile.nytimes.com/2017/09/07/us/politics/russia-facebook-twitter-electi
 http://www.spiegel.de/international/germany/how-germany-is-preparing-for-russian-election-meddling-a-1166461.html
 
 https://arstechnica.com/tech-policy/2017/09/report-facebook-sold-2016-election-related-ads-to-shadowy-russian-company/
+
+https://fbnewsroomus.files.wordpress.com/2017/04/facebook-and-information-operations-v1.pdf
