@@ -22,3 +22,5 @@ https://arstechnica.com/tech-policy/2017/09/report-facebook-sold-2016-election-r
 https://fbnewsroomus.files.wordpress.com/2017/04/facebook-and-information-operations-v1.pdf
 
 http://time.com/4783932/inside-russia-social-media-war-america/
+
+http://searchsecurity.techtarget.com/feature/Why-WannaCry-and-other-computer-worms-may-inherit-the-earth lots
