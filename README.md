@@ -26,3 +26,5 @@ http://time.com/4783932/inside-russia-social-media-war-america/
 http://searchsecurity.techtarget.com/feature/Why-WannaCry-and-other-computer-worms-may-inherit-the-earth lots
 
 https://speakerdeck.com/hshrzd/notpetya-the-analysis-of-the-mysterious-malware-which-has-attacked-ukraine
+
+http://www.latimes.com/sports/soccer/la-sp-england-world-cup-hacking-20170911-story.html
