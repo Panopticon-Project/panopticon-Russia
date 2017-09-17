@@ -28,3 +28,5 @@ http://searchsecurity.techtarget.com/feature/Why-WannaCry-and-other-computer-wor
 https://speakerdeck.com/hshrzd/notpetya-the-analysis-of-the-mysterious-malware-which-has-attacked-ukraine
 
 http://www.latimes.com/sports/soccer/la-sp-england-world-cup-hacking-20170911-story.html
+
+https://www.scmagazine.com/fa-readies-players-for-inhospitable-cyber-world-cup-cyber-environment/article/688072/
