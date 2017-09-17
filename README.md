@@ -30,3 +30,5 @@ https://speakerdeck.com/hshrzd/notpetya-the-analysis-of-the-mysterious-malware-w
 http://www.latimes.com/sports/soccer/la-sp-england-world-cup-hacking-20170911-story.html
 
 https://www.scmagazine.com/fa-readies-players-for-inhospitable-cyber-world-cup-cyber-environment/article/688072/
+
+http://www.thedailybeast.com/exclusive-russia-used-facebook-events-to-organize-anti-immigrant-rallies-on-us-soil?utm_content=buffer875a4&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
