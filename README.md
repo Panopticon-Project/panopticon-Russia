@@ -34,3 +34,5 @@ https://www.scmagazine.com/fa-readies-players-for-inhospitable-cyber-world-cup-c
 http://www.thedailybeast.com/exclusive-russia-used-facebook-events-to-organize-anti-immigrant-rallies-on-us-soil?utm_content=buffer875a4&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 
 http://www.thestar.com.my/tech/tech-news/2017/09/21/germany-on-guard-against-election-hacks-fake-news/
+
+https://www.wired.com/story/wikileaks-spy-files-russia?mbid=nl_092017_daily&CNDID=%25%25CUST_ID%25%25
