@@ -36,3 +36,5 @@ http://www.thedailybeast.com/exclusive-russia-used-facebook-events-to-organize-a
 http://www.thestar.com.my/tech/tech-news/2017/09/21/germany-on-guard-against-election-hacks-fake-news/
 
 https://www.wired.com/story/wikileaks-spy-files-russia?mbid=nl_092017_daily&CNDID=%25%25CUST_ID%25%25
+
+http://www.motherjones.com/politics/2017/09/yahoo-indictment-offers-clues-russia-election-hacking/
