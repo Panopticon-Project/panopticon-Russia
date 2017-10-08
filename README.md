@@ -42,3 +42,5 @@ http://www.motherjones.com/politics/2017/09/yahoo-indictment-offers-clues-russia
 https://themoscowtimes.com/news/fsb-seeks-telegram-encryption-keys-founder-claims-59085?utm_content=buffere13e1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 http://www.securityweek.com/rurktar-malware-espionage-tool-development
+
+https://www.businessinsider.com.au/nato-troops-are-wrapping-phones-in-condoms-to-thwart-russian-hackers-2017-10?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29&r=US&IR=T
