@@ -46,3 +46,5 @@ http://www.securityweek.com/rurktar-malware-espionage-tool-development
 https://www.businessinsider.com.au/nato-troops-are-wrapping-phones-in-condoms-to-thwart-russian-hackers-2017-10?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29&r=US&IR=T
 
 http://edition.cnn.com/2017/10/12/us/2016-presidential-election-investigation-fast-facts/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29
+
+https://www.nytimes.com/2017/10/10/technology/kaspersky-lab-israel-russia-hacking.html
