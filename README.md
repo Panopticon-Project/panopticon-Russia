@@ -48,3 +48,5 @@ https://www.businessinsider.com.au/nato-troops-are-wrapping-phones-in-condoms-to
 http://edition.cnn.com/2017/10/12/us/2016-presidential-election-investigation-fast-facts/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29
 
 https://www.nytimes.com/2017/10/10/technology/kaspersky-lab-israel-russia-hacking.html
+
+http://www.securityweek.com/vpn-law-latest-step-kremlin-online-crackdown-experts
