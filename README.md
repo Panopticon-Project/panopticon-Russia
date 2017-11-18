@@ -50,3 +50,5 @@ http://edition.cnn.com/2017/10/12/us/2016-presidential-election-investigation-fa
 https://www.nytimes.com/2017/10/10/technology/kaspersky-lab-israel-russia-hacking.html
 
 http://www.securityweek.com/vpn-law-latest-step-kremlin-online-crackdown-experts
+
+http://www.securityweek.com/uk-cyber-security-chief-blames-russia-hacker-attacks
