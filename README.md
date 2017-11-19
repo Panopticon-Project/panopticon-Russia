@@ -54,3 +54,5 @@ http://www.securityweek.com/vpn-law-latest-step-kremlin-online-crackdown-experts
 http://www.securityweek.com/uk-cyber-security-chief-blames-russia-hacker-attacks
 
 https://www.wired.com/story/how-mimikatz-became-go-to-hacker-tool/?mbid=nl_110917_daily_list1_p1
+
+http://www.sci-tech-today.com/story.xhtml?story_id=013001G9M0T4
