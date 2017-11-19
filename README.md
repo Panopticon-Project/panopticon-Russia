@@ -60,3 +60,5 @@ http://www.sci-tech-today.com/story.xhtml?story_id=013001G9M0T4
 http://nymag.com/daily/intelligencer/2017/11/the-russian-hacking-scandal-is-way-bigger-than-donald-trump.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nymag%2Fintelligencer+%28Daily+Intelligencer+-+New+York+Magazine%29
 
 http://www.leaderherald.com/wire/?category=5139&ID=45842
+
+https://www.wired.com/story/how-russia-pushed-our-buttons-with-fake-online-ads/?mbid=nl_110317_daily_list1_p1
