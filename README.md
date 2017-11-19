@@ -52,3 +52,5 @@ https://www.nytimes.com/2017/10/10/technology/kaspersky-lab-israel-russia-hackin
 http://www.securityweek.com/vpn-law-latest-step-kremlin-online-crackdown-experts
 
 http://www.securityweek.com/uk-cyber-security-chief-blames-russia-hacker-attacks
+
+https://www.wired.com/story/how-mimikatz-became-go-to-hacker-tool/?mbid=nl_110917_daily_list1_p1
