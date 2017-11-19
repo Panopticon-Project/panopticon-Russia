@@ -56,3 +56,5 @@ http://www.securityweek.com/uk-cyber-security-chief-blames-russia-hacker-attacks
 https://www.wired.com/story/how-mimikatz-became-go-to-hacker-tool/?mbid=nl_110917_daily_list1_p1
 
 http://www.sci-tech-today.com/story.xhtml?story_id=013001G9M0T4
+
+http://nymag.com/daily/intelligencer/2017/11/the-russian-hacking-scandal-is-way-bigger-than-donald-trump.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nymag%2Fintelligencer+%28Daily+Intelligencer+-+New+York+Magazine%29
