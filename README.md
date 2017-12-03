@@ -66,3 +66,5 @@ https://www.wired.com/story/how-russia-pushed-our-buttons-with-fake-online-ads/?
 https://www.wired.com/2017/10/russian-trolls-attack/?mbid=nl_102517_daily_list1_p1
 
 https://www.nbcnews.com/tech/social-media/man-who-shut-down-donald-trump-s-twitter-account-n825141
+
+http://www.newsweek.com/putin-starts-aiming-his-cyberweapons-against-individuals-695578
