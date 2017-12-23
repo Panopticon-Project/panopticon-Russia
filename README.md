@@ -68,3 +68,5 @@ https://www.wired.com/2017/10/russian-trolls-attack/?mbid=nl_102517_daily_list1_
 https://www.nbcnews.com/tech/social-media/man-who-shut-down-donald-trump-s-twitter-account-n825141
 
 http://www.newsweek.com/putin-starts-aiming-his-cyberweapons-against-individuals-695578
+
+http://www.securityweek.com/kremlins-new-cyber-weapons-spark-fears-and-fantasies
