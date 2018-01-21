@@ -117,3 +117,5 @@ https://www.nbcnews.com/tech/social-media/man-who-shut-down-donald-trump-s-twitt
 http://www.newsweek.com/putin-starts-aiming-his-cyberweapons-against-individuals-695578
 
 http://www.securityweek.com/kremlins-new-cyber-weapons-spark-fears-and-fantasies
+
+https://www.wired.com/story/russia-undersea-internet-cables/?mbid=nl_010518_daily_list1_p1
