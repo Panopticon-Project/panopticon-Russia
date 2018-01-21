@@ -121,3 +121,5 @@ http://www.securityweek.com/kremlins-new-cyber-weapons-spark-fears-and-fantasies
 https://www.wired.com/story/russia-undersea-internet-cables/?mbid=nl_010518_daily_list1_p1
 
 https://www.wired.com/story/pro-russia-twitter-trolls-target-robert-mueller/?mbid=nl_010618_daily_list1_p1
+
+http://www.mcclatchydc.com/news/nation-world/national/article191857354.html
