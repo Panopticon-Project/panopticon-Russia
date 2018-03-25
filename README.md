@@ -125,3 +125,5 @@ https://www.wired.com/story/pro-russia-twitter-trolls-target-robert-mueller/?mbi
 http://www.mcclatchydc.com/news/nation-world/national/article191857354.html
 
 https://www.wired.com/story/russia-false-flag-hacks/?CNDID=50740756&mbid=nl_030318_daily_list3_p4
+
+https://www.darkreading.com/threat-intelligence/nation-state-hackers-adopt-russian-maskirovka-strategy/d/d-id/1331150?elq_mid=83488&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20180228&cid=NL_DR_EDT_DR_daily_20180228&elqTrackId=2f9b71b496154d569faee9c5acaf752c&elq=c7cdd4efad294975bbceb7957f4d57e9&elqaid=83488&elqat=1&elqCampaignId=29881
