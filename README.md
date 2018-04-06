@@ -131,3 +131,5 @@ https://www.darkreading.com/threat-intelligence/nation-state-hackers-adopt-russi
 https://cyberx-labs.com/en/blog/dhs-fbi-alert-russian-government-cyber-activity-targeting-energy-and-other-critical-infrastructure-sectors
 
 https://www.techrepublic.com/article/ukraine-is-a-test-bed-for-global-cyberattacks-that-will-target-major-infrastructure
+
+https://arstechnica.com/tech-policy/2018/03/dnc-lone-hacker-guccifer-2-0-pegged-as-russian-spy-after-opsec-fail/
