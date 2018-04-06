@@ -143,3 +143,5 @@ https://www.intelligence.senate.gov/sites/default/files/documents/os-trid-033017
 https://www.intelligence.senate.gov/sites/default/files/documents/os-kmandia-033017.pdf
 
 https://www.nytimes.com/interactive/2017/01/06/us/politics/document-russia-hacking-report-intelligence-agencies.html?_r=0
+
+http://www.ecfr.eu/publications/summary/putins_hydra_inside_russias_intelligence_services
