@@ -141,3 +141,5 @@ https://www.washingtonpost.com/news/politics/wp/2017/07/06/heres-the-public-evid
 https://www.intelligence.senate.gov/sites/default/files/documents/os-trid-033017.pdf
 
 https://www.intelligence.senate.gov/sites/default/files/documents/os-kmandia-033017.pdf
+
+https://www.nytimes.com/interactive/2017/01/06/us/politics/document-russia-hacking-report-intelligence-agencies.html?_r=0
