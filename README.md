@@ -133,3 +133,5 @@ https://cyberx-labs.com/en/blog/dhs-fbi-alert-russian-government-cyber-activity-
 https://www.techrepublic.com/article/ukraine-is-a-test-bed-for-global-cyberattacks-that-will-target-major-infrastructure
 
 https://arstechnica.com/tech-policy/2018/03/dnc-lone-hacker-guccifer-2-0-pegged-as-russian-spy-after-opsec-fail/
+
+https://techcrunch.com/2018/03/22/more-evidence-ties-guccifer-2-0-to-russian-intelligence/
