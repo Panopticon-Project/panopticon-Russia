@@ -139,3 +139,5 @@ https://techcrunch.com/2018/03/22/more-evidence-ties-guccifer-2-0-to-russian-int
 https://www.washingtonpost.com/news/politics/wp/2017/07/06/heres-the-public-evidence-that-supports-the-idea-that-russia-interfered-in-the-2016-election/?utm_term=.75bf43fb2039
 
 https://www.intelligence.senate.gov/sites/default/files/documents/os-trid-033017.pdf
+
+https://www.intelligence.senate.gov/sites/default/files/documents/os-kmandia-033017.pdf
