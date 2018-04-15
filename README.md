@@ -145,3 +145,5 @@ https://www.intelligence.senate.gov/sites/default/files/documents/os-kmandia-033
 https://www.nytimes.com/interactive/2017/01/06/us/politics/document-russia-hacking-report-intelligence-agencies.html?_r=0
 
 http://www.ecfr.eu/publications/summary/putins_hydra_inside_russias_intelligence_services
+
+https://www.securityweek.com/britain-says-russia-spied-skripals-poisoning
