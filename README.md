@@ -149,3 +149,5 @@ http://www.ecfr.eu/publications/summary/putins_hydra_inside_russias_intelligence
 https://www.securityweek.com/britain-says-russia-spied-skripals-poisoning
 
 https://www.securityweek.com/russia-says-probe-facebook-after-telegram-crackdown
+
+https://www.us-cert.gov/ncas/alerts/TA18-106A
