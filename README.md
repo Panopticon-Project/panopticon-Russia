@@ -153,3 +153,7 @@ https://www.securityweek.com/russia-says-probe-facebook-after-telegram-crackdown
 https://www.us-cert.gov/ncas/alerts/TA18-106A
 
 https://www.wired.com/story/mueller-indictment-russia-attack-us-democracy?mbid=nl_021718_daily_list1_p1&CNDID=50740756
+
+https://www.wired.com/story/russian-trolls-identity-theft-mueller-indictment?mbid=nl_021718_daily_list1_p2&CNDID=50740756
+
+https://www.wired.com/story/pro-gun-russian-bots-flood-twitter-after-parkland-shooting?mbid=nl_021718_daily_list1_p3&CNDID=50740756
