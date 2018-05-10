@@ -157,3 +157,5 @@ https://www.wired.com/story/mueller-indictment-russia-attack-us-democracy?mbid=n
 https://www.wired.com/story/russian-trolls-identity-theft-mueller-indictment?mbid=nl_021718_daily_list1_p2&CNDID=50740756
 
 https://www.wired.com/story/pro-gun-russian-bots-flood-twitter-after-parkland-shooting?mbid=nl_021718_daily_list1_p3&CNDID=50740756
+
+https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/?CNDID=50740756&mbid=nl_051018_daily_list1_p4
