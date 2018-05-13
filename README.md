@@ -159,3 +159,5 @@ https://www.wired.com/story/russian-trolls-identity-theft-mueller-indictment?mbi
 https://www.wired.com/story/pro-gun-russian-bots-flood-twitter-after-parkland-shooting?mbid=nl_021718_daily_list1_p3&CNDID=50740756
 
 https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/?CNDID=50740756&mbid=nl_051018_daily_list1_p4
+
+https://www.darkreading.com/vulnerabilities---threats/newly-released-russian-facebook-ads-show-scale-of-manipulation/d/d-id/1331779?elq_mid=84731&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20180512&cid=NL_DR_EDT_DR_daily_20180512&elqTrackId=b381b88e99f7453db1a82410186b561a&elq=953f61863b9446dfaad9c48b4f1ec163&elqaid=84731&elqat=1&elqCampaignId=30691
