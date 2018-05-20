@@ -163,3 +163,5 @@ https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-
 https://www.darkreading.com/vulnerabilities---threats/newly-released-russian-facebook-ads-show-scale-of-manipulation/d/d-id/1331779?elq_mid=84731&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20180512&cid=NL_DR_EDT_DR_daily_20180512&elqTrackId=b381b88e99f7453db1a82410186b561a&elq=953f61863b9446dfaad9c48b4f1ec163&elqaid=84731&elqat=1&elqCampaignId=30691
 
 https://www.bleepingcomputer.com/news/security/uk-formally-accuses-russian-military-of-notpetya-ransomware-outbreak/
+
+https://www.darkreading.com/endpoint/privacy/newly-discovered-malware-targets-telegram-desktop/d/d-id/1331826?_mc=NL_DR_EDT_DR_daily_20180517&cid=NL_DR_EDT_DR_daily_20180517&elq_mid=84799&elq_cid=25141692
