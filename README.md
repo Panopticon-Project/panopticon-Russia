@@ -165,3 +165,5 @@ https://www.darkreading.com/vulnerabilities---threats/newly-released-russian-fac
 https://www.bleepingcomputer.com/news/security/uk-formally-accuses-russian-military-of-notpetya-ransomware-outbreak/
 
 https://www.darkreading.com/endpoint/privacy/newly-discovered-malware-targets-telegram-desktop/d/d-id/1331826?_mc=NL_DR_EDT_DR_daily_20180517&cid=NL_DR_EDT_DR_daily_20180517&elq_mid=84799&elq_cid=25141692
+
+https://www.securityweek.com/cambridge-analytica-shared-data-russia-whistleblower
