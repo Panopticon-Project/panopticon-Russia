@@ -169,3 +169,5 @@ https://www.darkreading.com/endpoint/privacy/newly-discovered-malware-targets-te
 https://www.securityweek.com/cambridge-analytica-shared-data-russia-whistleblower
 
 https://www.securityweek.com/trump-kim-summit-attracts-wave-cyber-attacks-singapore
+
+https://www.securityweek.com/russias-national-vulnerability-database-slow-incomplete
