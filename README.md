@@ -171,3 +171,5 @@ https://www.securityweek.com/cambridge-analytica-shared-data-russia-whistleblowe
 https://www.securityweek.com/trump-kim-summit-attracts-wave-cyber-attacks-singapore
 
 https://www.securityweek.com/russias-national-vulnerability-database-slow-incomplete
+
+https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/ until I find a more specific home for it
