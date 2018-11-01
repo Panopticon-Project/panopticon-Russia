@@ -173,3 +173,5 @@ https://www.securityweek.com/trump-kim-summit-attracts-wave-cyber-attacks-singap
 https://www.securityweek.com/russias-national-vulnerability-database-slow-incomplete
 
 https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/ until I find a more specific home for it
+
+https://www.securityweek.com/triton-malware-linked-russian-government-research-institute
