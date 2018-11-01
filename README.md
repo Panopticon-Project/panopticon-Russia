@@ -177,3 +177,5 @@ https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the
 https://www.securityweek.com/triton-malware-linked-russian-government-research-institute
 
 https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e4
+
+https://www.fireeye.com/blog/threat-research/2018/10/triton-attribution-russian-government-owned-lab-most-likely-built-tools.html?
