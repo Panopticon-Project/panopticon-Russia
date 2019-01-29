@@ -179,3 +179,5 @@ https://www.securityweek.com/triton-malware-linked-russian-government-research-i
 https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e4
 
 https://www.fireeye.com/blog/threat-research/2018/10/triton-attribution-russian-government-owned-lab-most-likely-built-tools.html?
+
+https://www.youtube.com/watch?v=h8pTjIMxsag
