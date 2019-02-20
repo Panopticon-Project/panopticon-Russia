@@ -181,3 +181,5 @@ https://medium.com/s/story/the-trolls-within-how-russian-information-operations-
 https://www.fireeye.com/blog/threat-research/2018/10/triton-attribution-russian-government-owned-lab-most-likely-built-tools.html?
 
 https://www.youtube.com/watch?v=h8pTjIMxsag
+
+https://www.wired.com/story/russian-hackers-speed-intrusion-breach/
