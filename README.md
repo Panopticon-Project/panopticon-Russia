@@ -185,3 +185,5 @@ https://www.youtube.com/watch?v=h8pTjIMxsag
 https://www.wired.com/story/russian-hackers-speed-intrusion-breach/
 
 https://www.securityweek.com/roger-stone-allegedly-communicated-mysterious-hacker-guccifer-20
+
+https://medium.com/dfrlab/electionwatch-loaded-language-ads-ahead-of-estonian-elections-ab06329b1caf
