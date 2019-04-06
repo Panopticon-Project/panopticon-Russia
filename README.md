@@ -191,3 +191,5 @@ https://medium.com/dfrlab/electionwatch-loaded-language-ads-ahead-of-estonian-el
 https://www.wired.com/story/isis-russia-manufacture-crowds/
 
 https://medium.com/dfrlab/balticbrief-pro-kremlin-media-weaponize-tucker-carlson-claim-75f9f0ef5259
+
+https://medium.com/dfrlab/balticbrief-sputnik-takes-aim-at-a-russian-speaking-audience-6f7668e6cc23
