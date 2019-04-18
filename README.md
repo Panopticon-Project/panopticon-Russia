@@ -195,3 +195,5 @@ https://medium.com/dfrlab/balticbrief-pro-kremlin-media-weaponize-tucker-carlson
 https://medium.com/dfrlab/balticbrief-sputnik-takes-aim-at-a-russian-speaking-audience-6f7668e6cc23
 
 https://medium.com/dfrlab/balticbrief-the-kremlins-loudspeaker-in-latvia-14c6398b2473
+
+https://medium.com/dfrlab/pro-kremlin-outlets-fail-in-anti-west-sentiment-push-around-anaklia-port-b2729b424fe5
