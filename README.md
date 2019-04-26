@@ -197,3 +197,5 @@ https://medium.com/dfrlab/balticbrief-sputnik-takes-aim-at-a-russian-speaking-au
 https://medium.com/dfrlab/balticbrief-the-kremlins-loudspeaker-in-latvia-14c6398b2473
 
 https://medium.com/dfrlab/pro-kremlin-outlets-fail-in-anti-west-sentiment-push-around-anaklia-port-b2729b424fe5
+
+https://medium.com/dfrlab/russian-interference-the-evidence-fe6e52e50dcd
