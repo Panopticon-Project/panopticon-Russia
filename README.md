@@ -199,3 +199,5 @@ https://medium.com/dfrlab/balticbrief-the-kremlins-loudspeaker-in-latvia-14c6398
 https://medium.com/dfrlab/pro-kremlin-outlets-fail-in-anti-west-sentiment-push-around-anaklia-port-b2729b424fe5
 
 https://medium.com/dfrlab/russian-interference-the-evidence-fe6e52e50dcd
+
+https://www.securityweek.com/russia-effort-2016-us-election-was-vast-professional
