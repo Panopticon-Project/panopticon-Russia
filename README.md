@@ -201,3 +201,5 @@ https://medium.com/dfrlab/pro-kremlin-outlets-fail-in-anti-west-sentiment-push-a
 https://medium.com/dfrlab/russian-interference-the-evidence-fe6e52e50dcd
 
 https://www.securityweek.com/russia-effort-2016-us-election-was-vast-professional
+
+https://medium.com/dfrlab/rt-and-sputnik-spin-narrative-on-guaid%C3%B3s-attempt-to-take-power-in-venezuela-cde0dc23ccd0
