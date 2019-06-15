@@ -203,3 +203,5 @@ https://medium.com/dfrlab/russian-interference-the-evidence-fe6e52e50dcd
 https://www.securityweek.com/russia-effort-2016-us-election-was-vast-professional
 
 https://medium.com/dfrlab/rt-and-sputnik-spin-narrative-on-guaid%C3%B3s-attempt-to-take-power-in-venezuela-cde0dc23ccd0
+
+https://medium.com/dfrlab/russian-tv-ties-biden-to-its-saakashvili-organ-trade-conspiracy-theory-ef9c7ce26660
