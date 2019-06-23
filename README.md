@@ -205,3 +205,13 @@ https://www.securityweek.com/russia-effort-2016-us-election-was-vast-professiona
 https://medium.com/dfrlab/rt-and-sputnik-spin-narrative-on-guaid%C3%B3s-attempt-to-take-power-in-venezuela-cde0dc23ccd0
 
 https://medium.com/dfrlab/russian-tv-ties-biden-to-its-saakashvili-organ-trade-conspiracy-theory-ef9c7ce26660
+
+https://medium.com/dfrlab/top-takes-suspected-russian-intelligence-operation-39212367d2f0
+
+https://medium.com/dfrlab/russian-op-1-fantasy-assassins-84b7af77c83a
+
+https://medium.com/dfrlab/russian-op-2-fanning-irish-flames-3e9e1b2d1a64
+
+https://medium.com/dfrlab/russian-op-3-the-blue-man-and-the-mole-3ba77b9eb955
+
+https://medium.com/dfrlab/russian-op-4-the-dark-lady-sings-48d59859d46f
