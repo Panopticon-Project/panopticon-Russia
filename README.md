@@ -215,3 +215,5 @@ https://medium.com/dfrlab/russian-op-2-fanning-irish-flames-3e9e1b2d1a64
 https://medium.com/dfrlab/russian-op-3-the-blue-man-and-the-mole-3ba77b9eb955
 
 https://medium.com/dfrlab/russian-op-4-the-dark-lady-sings-48d59859d46f
+
+https://medium.com/dfrlab/facebook-takes-down-inauthentic-pages-with-connections-to-thailand-7dbf331f5ba5
