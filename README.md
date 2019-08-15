@@ -217,3 +217,5 @@ https://medium.com/dfrlab/russian-op-3-the-blue-man-and-the-mole-3ba77b9eb955
 https://medium.com/dfrlab/russian-op-4-the-dark-lady-sings-48d59859d46f
 
 https://medium.com/dfrlab/facebook-takes-down-inauthentic-pages-with-connections-to-thailand-7dbf331f5ba5
+
+https://medium.com/dfrlab/facebooks-ukraine-takedown-personas-pushed-anti-ukraine-content-cf10e5ad15fd
