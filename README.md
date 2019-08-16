@@ -219,3 +219,5 @@ https://medium.com/dfrlab/russian-op-4-the-dark-lady-sings-48d59859d46f
 https://medium.com/dfrlab/facebook-takes-down-inauthentic-pages-with-connections-to-thailand-7dbf331f5ba5
 
 https://medium.com/dfrlab/facebooks-ukraine-takedown-personas-pushed-anti-ukraine-content-cf10e5ad15fd
+
+https://blog.malwarebytes.com/social-engineering/2019/07/malaysia-airlines-flight-17-investigation-shows-russian-disinformation-campaigns-have-global-reach/
