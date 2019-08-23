@@ -223,3 +223,5 @@ https://medium.com/dfrlab/facebooks-ukraine-takedown-personas-pushed-anti-ukrain
 https://blog.malwarebytes.com/social-engineering/2019/07/malaysia-airlines-flight-17-investigation-shows-russian-disinformation-campaigns-have-global-reach/
 
 https://www.bellingcat.com/news/uk-and-europe/2019/08/10/guccifer-rising-months-long-phishing-campaign-on-protonmail-targets-dozens-of-russia-focused-journalists-and-ngos/
+
+https://medium.com/dfrlab/facebooks-ukraine-takedown-personas-pushed-anti-ukraine-content-cf10e5ad15fd
