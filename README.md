@@ -227,3 +227,7 @@ https://www.bellingcat.com/news/uk-and-europe/2019/08/10/guccifer-rising-months-
 https://medium.com/dfrlab/facebooks-ukraine-takedown-personas-pushed-anti-ukraine-content-cf10e5ad15fd
 
 https://medium.com/dfrlab/balticbrief-the-kremlins-loudspeaker-in-latvia-14c6398b2473
+
+https://medium.com/dfrlab/inauthentic-sputnik-linked-pages-target-the-armenian-diaspora-3e4ed8923525
+
+https://medium.com/dfrlab/pro-kremlin-outlets-issue-a-false-prognosis-for-georgias-economy-526a8d907167
