@@ -237,3 +237,5 @@ https://medium.com/dfrlab/pro-kremlin-media-push-false-claims-tying-huntsman-to-
 https://medium.com/dfrlab/russian-diplomatic-twitter-accounts-rewrite-history-of-world-war-ii-3d86c441d10d
 
 https://thehackernews.com/2019/09/russia-hacking-groups-map.html - will need to be listed against each APT
+
+https://medium.com/dfrlab/disinfo-bingo-the-4-ds-of-disinformation-in-the-moscow-protests-6624d3d677e6
