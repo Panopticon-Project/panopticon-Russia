@@ -235,3 +235,5 @@ https://medium.com/dfrlab/pro-kremlin-outlets-issue-a-false-prognosis-for-georgi
 https://medium.com/dfrlab/pro-kremlin-media-push-false-claims-tying-huntsman-to-moscow-protests-5f02de9e7add
 
 https://medium.com/dfrlab/russian-diplomatic-twitter-accounts-rewrite-history-of-world-war-ii-3d86c441d10d
+
+https://thehackernews.com/2019/09/russia-hacking-groups-map.html - will need to be listed against each APT
