@@ -241,3 +241,5 @@ https://thehackernews.com/2019/09/russia-hacking-groups-map.html - will need to 
 https://medium.com/dfrlab/disinfo-bingo-the-4-ds-of-disinformation-in-the-moscow-protests-6624d3d677e6
 
 https://www.forbes.com/sites/zakdoffman/2019/09/24/new-cyberwarfare-report-unveils-russias-secret-weapon-against-us-2020-election/#39d0d44b68f5
+
+https://medium.com/dfrlab/kremlin-disinformation-mill-targets-poland-d4d07bb8d2b1
