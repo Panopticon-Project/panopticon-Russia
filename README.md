@@ -243,3 +243,5 @@ https://medium.com/dfrlab/disinfo-bingo-the-4-ds-of-disinformation-in-the-moscow
 https://www.forbes.com/sites/zakdoffman/2019/09/24/new-cyberwarfare-report-unveils-russias-secret-weapon-against-us-2020-election/#39d0d44b68f5
 
 https://medium.com/dfrlab/kremlin-disinformation-mill-targets-poland-d4d07bb8d2b1
+
+https://www.wired.com/story/russias-disinformation-war-is-just-getting-started/
