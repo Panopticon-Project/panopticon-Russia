@@ -245,3 +245,5 @@ https://www.forbes.com/sites/zakdoffman/2019/09/24/new-cyberwarfare-report-unvei
 https://medium.com/dfrlab/kremlin-disinformation-mill-targets-poland-d4d07bb8d2b1
 
 https://www.wired.com/story/russias-disinformation-war-is-just-getting-started/
+
+https://medium.com/dfrlab/russias-full-spectrum-propaganda-9436a246e970
