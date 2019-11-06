@@ -249,3 +249,5 @@ https://www.wired.com/story/russias-disinformation-war-is-just-getting-started/
 https://medium.com/dfrlab/russias-full-spectrum-propaganda-9436a246e970
 
 https://medium.com/dfrlab/pro-kremlin-sources-target-the-bbc-for-report-on-murdered-chechen-commander-7cf253117b7b
+
+https://medium.com/dfrlab/misleading-homophobic-memes-target-former-estonian-president-b8df0101e935
