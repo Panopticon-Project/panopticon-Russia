@@ -251,3 +251,5 @@ https://medium.com/dfrlab/russias-full-spectrum-propaganda-9436a246e970
 https://medium.com/dfrlab/pro-kremlin-sources-target-the-bbc-for-report-on-murdered-chechen-commander-7cf253117b7b
 
 https://medium.com/dfrlab/misleading-homophobic-memes-target-former-estonian-president-b8df0101e935
+
+https://medium.com/dfrlab/the-kremlin-augments-its-digital-tools-for-cracking-down-on-protesters-18e158cd7b16
