@@ -253,3 +253,5 @@ https://medium.com/dfrlab/pro-kremlin-sources-target-the-bbc-for-report-on-murde
 https://medium.com/dfrlab/misleading-homophobic-memes-target-former-estonian-president-b8df0101e935
 
 https://medium.com/dfrlab/the-kremlin-augments-its-digital-tools-for-cracking-down-on-protesters-18e158cd7b16
+
+https://medium.com/dfrlab/secondary-infektion-redux-suspected-russian-intelligence-operation-targets-greenland-c4e04deb27c5
