@@ -255,3 +255,7 @@ https://medium.com/dfrlab/misleading-homophobic-memes-target-former-estonian-pre
 https://medium.com/dfrlab/the-kremlin-augments-its-digital-tools-for-cracking-down-on-protesters-18e158cd7b16
 
 https://medium.com/dfrlab/secondary-infektion-redux-suspected-russian-intelligence-operation-targets-greenland-c4e04deb27c5
+
+https://medium.com/dfrlab/nontraditional-media-outlets-grabbed-ukrainians-attention-prior-to-elections-5f6768169677
+
+https://medium.com/dfrlab/nontraditional-media-outlets-target-former-ukrainian-president-petro-poroshenko-df98b2529e90
