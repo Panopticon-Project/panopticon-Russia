@@ -261,3 +261,5 @@ https://medium.com/dfrlab/nontraditional-media-outlets-grabbed-ukrainians-attent
 https://medium.com/dfrlab/nontraditional-media-outlets-target-former-ukrainian-president-petro-poroshenko-df98b2529e90
 
 https://medium.com/dfrlab/italian-anti-nato-coronavirus-narrative-recycled-in-russia-46f14537c25a
+
+https://www.infosecurity-magazine.com/news/isc-attributes-russia/
