@@ -267,3 +267,5 @@ https://www.infosecurity-magazine.com/news/isc-attributes-russia/
 https://www.securityweek.com/ghostwriter-widespread-disinformation-campaign-associated-russia
 
 https://www.wired.com/story/hackers-broke-into-real-news-sites-to-plant-fake-stories-anti-nato/
+
+https://www.wired.com/story/facebook-russia-fancy-bear-ira-misinformation/
