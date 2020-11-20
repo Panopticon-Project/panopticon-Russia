@@ -271,3 +271,5 @@ https://www.wired.com/story/hackers-broke-into-real-news-sites-to-plant-fake-sto
 https://www.wired.com/story/facebook-russia-fancy-bear-ira-misinformation/
 
 https://us-cert.cisa.gov/ncas/alerts/aa20-296a
+
+https://www.securityweek.com/norway-says-russia-behind-cyber-attack-parliament
