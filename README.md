@@ -269,3 +269,5 @@ https://www.securityweek.com/ghostwriter-widespread-disinformation-campaign-asso
 https://www.wired.com/story/hackers-broke-into-real-news-sites-to-plant-fake-stories-anti-nato/
 
 https://www.wired.com/story/facebook-russia-fancy-bear-ira-misinformation/
+
+https://us-cert.cisa.gov/ncas/alerts/aa20-296a
