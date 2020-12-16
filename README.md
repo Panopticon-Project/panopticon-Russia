@@ -273,3 +273,5 @@ https://www.wired.com/story/facebook-russia-fancy-bear-ira-misinformation/
 https://us-cert.cisa.gov/ncas/alerts/aa20-296a
 
 https://www.securityweek.com/norway-says-russia-behind-cyber-attack-parliament
+
+https://www.securityweek.com/facebook-closes-disinformation-accounts-linked-french-military
