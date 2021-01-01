@@ -277,3 +277,5 @@ https://www.securityweek.com/norway-says-russia-behind-cyber-attack-parliament
 https://www.securityweek.com/facebook-closes-disinformation-accounts-linked-french-military
 
 https://media.defense.gov/2020/Dec/07/2002547071/-1/-1/0/CSA_VMWARE%20ACCESS_U_OO_195076_20.PDF
+
+https://www.cyberscoop.com/russia-hacking-industrial-espionage-kaspersky/
