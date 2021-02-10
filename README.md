@@ -281,3 +281,5 @@ https://media.defense.gov/2020/Dec/07/2002547071/-1/-1/0/CSA_VMWARE%20ACCESS_U_O
 https://www.cyberscoop.com/russia-hacking-industrial-espionage-kaspersky/
 
 https://securelist.com/attacks-on-industrial-enterprises-using-rms-and-teamviewer-new-data/99206/
+
+https://www.youtube.com/watch?v=CPQWEkjJaqw&feature=emb_imp_woyt
