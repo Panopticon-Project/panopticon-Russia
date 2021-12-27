@@ -289,3 +289,5 @@ https://www.dni.gov/files/ODNI/documents/assessments/ICA-declass-16MAR21.pdf
 https://www.washingtonpost.com/national-security/intelligence-assessment-2020-election-russia-iran/2021/03/16/a2650478-8662-11eb-bfdf-4d36dab83a6d_story.html
 
 https://www.securityweek.com/us-government-attributes-ics-attacks-russia-china-iran
+
+https://www.securityweek.com/russian-cyberspy-groups-start-exploiting-log4shell-vulnerability
