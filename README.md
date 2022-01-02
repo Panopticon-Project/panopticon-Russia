@@ -291,3 +291,5 @@ https://www.washingtonpost.com/national-security/intelligence-assessment-2020-el
 https://www.securityweek.com/us-government-attributes-ics-attacks-russia-china-iran
 
 https://www.securityweek.com/russian-cyberspy-groups-start-exploiting-log4shell-vulnerability
+
+https://www.securityweek.com/facebook-twitter-take-down-more-state-linked-accounts
