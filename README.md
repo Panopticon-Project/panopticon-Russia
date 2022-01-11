@@ -293,3 +293,5 @@ https://www.securityweek.com/us-government-attributes-ics-attacks-russia-china-i
 https://www.securityweek.com/russian-cyberspy-groups-start-exploiting-log4shell-vulnerability
 
 https://www.securityweek.com/facebook-twitter-take-down-more-state-linked-accounts
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-011a
