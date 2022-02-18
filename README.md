@@ -299,3 +299,5 @@ https://www.cisa.gov/uscert/ncas/alerts/aa22-011a
 https://blog.bushidotoken.net/2022/01/tracking-renewable-energy-intelligence.html - circumstantial
 
 https://www.securityweek.com/russian-law-enforcement-take-down-several-cybercrime-forums
+
+https://www.securityweek.com/cyberattacks-knock-out-sites-ukrainian-army-major-banks
