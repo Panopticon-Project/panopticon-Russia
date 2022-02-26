@@ -313,3 +313,5 @@ https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine
 https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/
 
 https://www.wired.com/story/russias-cyber-threat-to-ukraine-is-vast-and-underestimated/
+
+https://zetter.substack.com/p/second-wiper-attack-strikes-systems
