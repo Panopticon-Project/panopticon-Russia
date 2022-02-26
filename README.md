@@ -307,3 +307,5 @@ https://twitter.com/ESETresearch/status/1496581903205511181 - hermetic wiper
 https://twitter.com/threatintel/status/1496578746014437376
 
 https://blog.talosintelligence.com/2022/02/threat-advisory-hermeticwiper.html
+
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia
