@@ -301,3 +301,5 @@ https://blog.bushidotoken.net/2022/01/tracking-renewable-energy-intelligence.htm
 https://www.securityweek.com/russian-law-enforcement-take-down-several-cybercrime-forums
 
 https://www.securityweek.com/cyberattacks-knock-out-sites-ukrainian-army-major-banks
+
+https://twitter.com/ESETresearch/status/1496581903205511181 - hermetic wiper
