@@ -303,3 +303,5 @@ https://www.securityweek.com/russian-law-enforcement-take-down-several-cybercrim
 https://www.securityweek.com/cyberattacks-knock-out-sites-ukrainian-army-major-banks
 
 https://twitter.com/ESETresearch/status/1496581903205511181 - hermetic wiper
+
+https://twitter.com/threatintel/status/1496578746014437376
