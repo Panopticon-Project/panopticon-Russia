@@ -305,3 +305,5 @@ https://www.securityweek.com/cyberattacks-knock-out-sites-ukrainian-army-major-b
 https://twitter.com/ESETresearch/status/1496581903205511181 - hermetic wiper
 
 https://twitter.com/threatintel/status/1496578746014437376
+
+https://blog.talosintelligence.com/2022/02/threat-advisory-hermeticwiper.html
