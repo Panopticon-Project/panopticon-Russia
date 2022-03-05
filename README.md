@@ -321,3 +321,5 @@ https://zetter.substack.com/p/second-wiper-attack-strikes-systems
 https://www.cisa.gov/uscert/ncas/current-activity/2022/02/26/cisa-releases-advisory-destructive-malware-targeting-organizations
 
 https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
+
+https://securelist.com/elections-goransom-and-hermeticwiper-attack/105960/
