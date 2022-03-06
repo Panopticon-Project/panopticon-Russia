@@ -323,3 +323,5 @@ https://www.cisa.gov/uscert/ncas/current-activity/2022/02/26/cisa-releases-advis
 https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
 
 https://securelist.com/elections-goransom-and-hermeticwiper-attack/105960/
+
+https://www.zdnet.com/article/viasat-confirms-cyberattack-causing-outages-across-europe/
