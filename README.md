@@ -327,3 +327,5 @@ https://securelist.com/elections-goransom-and-hermeticwiper-attack/105960/
 https://www.zdnet.com/article/viasat-confirms-cyberattack-causing-outages-across-europe/
 
 https://www.bellingcat.com/news/2022/02/23/attack-on-ukrainian-government-websites-linked-to-russian-gru-hackers/
+
+https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html
