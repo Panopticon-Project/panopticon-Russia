@@ -335,3 +335,5 @@ https://www.securityweek.com/cyberattack-knocks-thousands-offline-europe
 https://www.bleepingcomputer.com/news/security/europe-warns-of-aircraft-gps-outages-tied-to-russian-invasion/
 
 https://www.welivesecurity.com/2022/03/15/caddywiper-new-wiper-malware-discovered-ukraine/
+
+https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/ ??
