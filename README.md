@@ -333,3 +333,5 @@ https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html
 https://www.securityweek.com/cyberattack-knocks-thousands-offline-europe
 
 https://www.bleepingcomputer.com/news/security/europe-warns-of-aircraft-gps-outages-tied-to-russian-invasion/
+
+https://www.welivesecurity.com/2022/03/15/caddywiper-new-wiper-malware-discovered-ukraine/
