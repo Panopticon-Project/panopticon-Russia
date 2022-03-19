@@ -331,3 +331,5 @@ https://www.bellingcat.com/news/2022/02/23/attack-on-ukrainian-government-websit
 https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html
 
 https://www.securityweek.com/cyberattack-knocks-thousands-offline-europe
+
+https://www.bleepingcomputer.com/news/security/europe-warns-of-aircraft-gps-outages-tied-to-russian-invasion/
