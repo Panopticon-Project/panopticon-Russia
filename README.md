@@ -339,3 +339,5 @@ https://www.welivesecurity.com/2022/03/15/caddywiper-new-wiper-malware-discovere
 https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/ ??
 
 https://www.cisa.gov/uscert/ncas/alerts/aa22-074a
+
+https://www.recordedfuture.com/russian-state-sponsored-amplification-bio-lab-disinformation-amid-war-ukraine
