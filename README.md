@@ -343,3 +343,5 @@ https://www.cisa.gov/uscert/ncas/alerts/aa22-074a
 https://www.recordedfuture.com/russian-state-sponsored-amplification-bio-lab-disinformation-amid-war-ukraine
 
 https://www.securityweek.com/russian-operator-cybercrime-marketplace-indicted-us
+
+https://www.viasat.com/about/newsroom/blog/ka-sat-network-cyber-attack-overview/
