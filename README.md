@@ -345,3 +345,5 @@ https://www.recordedfuture.com/russian-state-sponsored-amplification-bio-lab-dis
 https://www.securityweek.com/russian-operator-cybercrime-marketplace-indicted-us
 
 https://www.viasat.com/about/newsroom/blog/ka-sat-network-cyber-attack-overview/
+
+https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/ - possibly sandworm
