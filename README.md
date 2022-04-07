@@ -349,3 +349,5 @@ https://www.viasat.com/about/newsroom/blog/ka-sat-network-cyber-attack-overview/
 https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/ - possibly sandworm
 
 https://therecord.media/nigerian-social-media-accounts-targeted-in-influence-campaign-centered-on-ukraine-invasion/
+
+https://blog.talosintelligence.com/2022/03/threat-advisory-doublezero.html
