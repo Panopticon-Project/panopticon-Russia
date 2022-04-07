@@ -351,3 +351,5 @@ https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/ - 
 https://therecord.media/nigerian-social-media-accounts-targeted-in-influence-campaign-centered-on-ukraine-invasion/
 
 https://blog.talosintelligence.com/2022/03/threat-advisory-doublezero.html
+
+https://www.reuters.com/business/media-telecom/ukrainian-telecom-companys-internet-service-disrupted-by-powerful-cyberattack-2022-03-28/
