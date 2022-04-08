@@ -357,3 +357,5 @@ https://www.reuters.com/business/media-telecom/ukrainian-telecom-companys-intern
 https://www.wired.com/story/russia-ukraine-us-hacker-counterattack/
 
 https://www.wired.com/story/moldova-disinformation-war-ukraine/
+
+https://www.securityweek.com/facebook-battles-cyber-campaigns-targeting-ukraine
