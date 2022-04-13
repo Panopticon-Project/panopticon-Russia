@@ -359,3 +359,5 @@ https://www.wired.com/story/russia-ukraine-us-hacker-counterattack/
 https://www.wired.com/story/moldova-disinformation-war-ukraine/
 
 https://www.securityweek.com/facebook-battles-cyber-campaigns-targeting-ukraine
+
+https://koen.engineer/russias-certificate-authority-for-sanctioned-organizations-645d61af8ac6
