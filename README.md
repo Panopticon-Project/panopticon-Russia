@@ -363,3 +363,7 @@ https://www.securityweek.com/facebook-battles-cyber-campaigns-targeting-ukraine
 https://koen.engineer/russias-certificate-authority-for-sanctioned-organizations-645d61af8ac6
 
 https://www.wired.com/story/russia-ukraine-data
+
+https://therecord.media/u-s-allies-provide-comprehensive-overview-of-russia-cyber-threats/
+
+https://therecord.media/from-the-front-lines-of-the-first-real-cyberwar/
