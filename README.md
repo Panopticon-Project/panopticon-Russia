@@ -367,3 +367,7 @@ https://www.wired.com/story/russia-ukraine-data
 https://therecord.media/u-s-allies-provide-comprehensive-overview-of-russia-cyber-threats/
 
 https://therecord.media/from-the-front-lines-of-the-first-real-cyberwar/
+
+https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/?msclkid=235244a7ba6611ec92f21c9bd3b8ee49 - get the additional groups
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-110a - grab the references
