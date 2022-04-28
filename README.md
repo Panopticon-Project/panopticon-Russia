@@ -373,3 +373,5 @@ https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/?msclkid=235
 https://www.cisa.gov/uscert/ncas/alerts/aa22-110a - grab the references
 
 https://www.wired.com/story/russia-hacked-attacks/
+
+https://zetter.substack.com/p/russia-began-setting-stage-for-cyberattacks
