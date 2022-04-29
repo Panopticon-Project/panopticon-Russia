@@ -375,3 +375,5 @@ https://www.cisa.gov/uscert/ncas/alerts/aa22-110a - grab the references
 https://www.wired.com/story/russia-hacked-attacks/
 
 https://zetter.substack.com/p/russia-began-setting-stage-for-cyberattacks
+
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd
