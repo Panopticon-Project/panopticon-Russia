@@ -379,3 +379,5 @@ https://zetter.substack.com/p/russia-began-setting-stage-for-cyberattacks
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd
 
 https://www.securityweek.com/chilling-russian-cyber-aim-ukraine-digital-dossiers
+
+https://www.securityweek.com/russia-coordinating-cyberattacks-military-strikes-ukraine-microsoft
