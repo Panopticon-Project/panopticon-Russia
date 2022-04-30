@@ -381,3 +381,5 @@ https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd
 https://www.securityweek.com/chilling-russian-cyber-aim-ukraine-digital-dossiers
 
 https://www.securityweek.com/russia-coordinating-cyberattacks-military-strikes-ukraine-microsoft
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-057a
