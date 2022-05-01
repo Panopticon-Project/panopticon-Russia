@@ -383,3 +383,5 @@ https://www.securityweek.com/chilling-russian-cyber-aim-ukraine-digital-dossiers
 https://www.securityweek.com/russia-coordinating-cyberattacks-military-strikes-ukraine-microsoft
 
 https://www.cisa.gov/uscert/ncas/alerts/aa22-057a
+
+https://therecord.media/fbi-searched-foreign-intel-database-3-3-million-times-last-year/
