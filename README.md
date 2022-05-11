@@ -385,3 +385,5 @@ https://www.securityweek.com/russia-coordinating-cyberattacks-military-strikes-u
 https://www.cisa.gov/uscert/ncas/alerts/aa22-057a
 
 https://therecord.media/fbi-searched-foreign-intel-database-3-3-million-times-last-year/
+
+https://www.consilium.europa.eu/en/press/press-releases/2022/05/10/russian-cyber-operations-against-ukraine-declaration-by-the-high-representative-on-behalf-of-the-european-union/
