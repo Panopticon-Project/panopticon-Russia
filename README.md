@@ -387,3 +387,5 @@ https://www.cisa.gov/uscert/ncas/alerts/aa22-057a
 https://therecord.media/fbi-searched-foreign-intel-database-3-3-million-times-last-year/
 
 https://www.consilium.europa.eu/en/press/press-releases/2022/05/10/russian-cyber-operations-against-ukraine-declaration-by-the-high-representative-on-behalf-of-the-european-union/
+
+https://www.state.gov/attribution-of-russias-malicious-cyber-activity-against-ukraine/
