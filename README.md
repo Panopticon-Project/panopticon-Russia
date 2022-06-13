@@ -391,3 +391,7 @@ https://www.consilium.europa.eu/en/press/press-releases/2022/05/10/russian-cyber
 https://www.state.gov/attribution-of-russias-malicious-cyber-activity-against-ukraine/
 
 https://www.mandiant.com/resources/information-operations-surrounding-ukraine
+
+https://blog.google/threat-analysis-group/tag-bulletin-q2-2022/
+
+https://blog.google/threat-analysis-group/tag-bulletin-q1-2022/
