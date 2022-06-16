@@ -395,3 +395,5 @@ https://www.mandiant.com/resources/information-operations-surrounding-ukraine
 https://blog.google/threat-analysis-group/tag-bulletin-q2-2022/
 
 https://blog.google/threat-analysis-group/tag-bulletin-q1-2022/
+
+https://www.wired.com/story/ukraine-russia-internet-takeover/
