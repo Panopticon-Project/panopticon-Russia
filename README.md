@@ -46,6 +46,7 @@ A mistake in software that can be directly used by a hacker to gain access to a 
 
 
 ## To Read
+https://www.occrp.org/en/asset-tracker/mysterious-group-of-companies-tied-to-bank-rossiya-unites-billions-of-dollars-in-assets-connected-to-vladimir-putin
 
 https://www.recordedfuture.com/hermeticwiper-partyticket-targeting-computers-ukraine/
 
