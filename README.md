@@ -400,3 +400,5 @@ https://blog.google/threat-analysis-group/tag-bulletin-q1-2022/
 https://www.wired.com/story/ukraine-russia-internet-takeover/
 
 https://www.wired.com/story/russia-spy-sergey-vladimirovich-cherkasov-gru-roundup/
+
+https://blogs.microsoft.com/on-the-issues/2022/06/22/defending-ukraine-early-lessons-from-the-cyber-war/
