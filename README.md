@@ -402,3 +402,5 @@ https://www.wired.com/story/ukraine-russia-internet-takeover/
 https://www.wired.com/story/russia-spy-sergey-vladimirovich-cherkasov-gru-roundup/
 
 https://blogs.microsoft.com/on-the-issues/2022/06/22/defending-ukraine-early-lessons-from-the-cyber-war/
+
+https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/growling-bears-make-thunderous-noise.html
