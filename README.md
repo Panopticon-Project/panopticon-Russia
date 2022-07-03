@@ -406,3 +406,5 @@ https://blogs.microsoft.com/on-the-issues/2022/06/22/defending-ukraine-early-les
 https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/growling-bears-make-thunderous-noise.html
 
 https://www.securityweek.com/cyberattack-hits-norway-pro-russian-hacker-group-fingered
+
+https://edition.cnn.com/2022/06/22/politics/microsoft-russia-hackings/index.html
