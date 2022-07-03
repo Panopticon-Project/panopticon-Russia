@@ -404,3 +404,5 @@ https://www.wired.com/story/russia-spy-sergey-vladimirovich-cherkasov-gru-roundu
 https://blogs.microsoft.com/on-the-issues/2022/06/22/defending-ukraine-early-lessons-from-the-cyber-war/
 
 https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/growling-bears-make-thunderous-noise.html
+
+https://www.securityweek.com/cyberattack-hits-norway-pro-russian-hacker-group-fingered
