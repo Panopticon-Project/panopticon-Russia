@@ -410,3 +410,5 @@ https://www.securityweek.com/cyberattack-hits-norway-pro-russian-hacker-group-fi
 https://edition.cnn.com/2022/06/22/politics/microsoft-russia-hackings/index.html
 
 https://therecord.media/norway-accuses-pro-russian-hackers-of-launching-wave-of-ddos-attacks/
+
+https://ssu.gov.ua/en/novyny/sbu-ne-dala-rosiiskym-spetssluzhbam-zlamaty-ukrainski-telekanaly-yaki-berut-uchast-u-natsionalnomu-telemarafoni
