@@ -414,3 +414,5 @@ https://therecord.media/norway-accuses-pro-russian-hackers-of-launching-wave-of-
 https://ssu.gov.ua/en/novyny/sbu-ne-dala-rosiiskym-spetssluzhbam-zlamaty-ukrainski-telekanaly-yaki-berut-uchast-u-natsionalnomu-telemarafoni
 
 https://www.recordedfuture.com/russian-information-operations-divide-western-coalition-ukraine
+
+https://security.googleblog.com/2022/07/tag-bulletin-q2-2022.html
