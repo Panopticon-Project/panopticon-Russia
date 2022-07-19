@@ -416,3 +416,8 @@ https://ssu.gov.ua/en/novyny/sbu-ne-dala-rosiiskym-spetssluzhbam-zlamaty-ukrains
 https://www.recordedfuture.com/russian-information-operations-divide-western-coalition-ukraine
 
 https://security.googleblog.com/2022/07/tag-bulletin-q2-2022.html
+
+https://www.direkt36.hu/en/putyin-hekkerei-is-latjak-a-magyar-kulugy-titkait-az-orban-kormany-evek-ota-nem-birja-elharitani-oket/
+
+https://www.direkt36.hu/en/nyugati-szovetsegesek-furcsalljak-az-orban-kormany-enyhe-reakciojat-a-kulugy-orosz-hekkelesere/
+
