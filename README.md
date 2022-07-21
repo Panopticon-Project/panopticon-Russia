@@ -421,3 +421,4 @@ https://www.direkt36.hu/en/putyin-hekkerei-is-latjak-a-magyar-kulugy-titkait-az-
 
 https://www.direkt36.hu/en/nyugati-szovetsegesek-furcsalljak-az-orban-kormany-enyhe-reakciojat-a-kulugy-orosz-hekkelesere/
 
+https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag/
