@@ -424,3 +424,5 @@ https://www.direkt36.hu/en/nyugati-szovetsegesek-furcsalljak-az-orban-kormany-en
 https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag/
 
 https://www.securityweek.com/uscybercom-releases-iocs-malware-targeting-ukraine
+
+https://blog.talosintelligence.com/2022/07/attackers-target-ukraine-using-gomet.html
