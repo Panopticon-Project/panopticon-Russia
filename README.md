@@ -426,3 +426,5 @@ https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-eu
 https://www.securityweek.com/uscybercom-releases-iocs-malware-targeting-ukraine
 
 https://blog.talosintelligence.com/2022/07/attackers-target-ukraine-using-gomet.html
+
+https://therecord.media/mi6-chief-russias-spies-not-having-a-great-war-in-ukraine/
