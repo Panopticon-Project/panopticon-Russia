@@ -432,3 +432,5 @@ https://therecord.media/mi6-chief-russias-spies-not-having-a-great-war-in-ukrain
 https://www.wired.com/story/russia-internet-censorship-splinternet/
 
 https://therecord.media/how-anton-gerashchenko-is-waging-an-information-war-against-russia/
+
+https://www.securityweek.com/russian-use-cyberweapons-ukraine-and-growing-threat-west
