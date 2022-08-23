@@ -434,3 +434,5 @@ https://www.wired.com/story/russia-internet-censorship-splinternet/
 https://therecord.media/how-anton-gerashchenko-is-waging-an-information-war-against-russia/
 
 https://www.securityweek.com/russian-use-cyberweapons-ukraine-and-growing-threat-west
+
+https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/cion_def/l16cion_def2122005_compte-rendu
