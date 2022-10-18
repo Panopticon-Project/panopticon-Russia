@@ -438,3 +438,5 @@ https://www.securityweek.com/russian-use-cyberweapons-ukraine-and-growing-threat
 https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/cion_def/l16cion_def2122005_compte-rendu
 
 https://go.recordedfuture.com/hubfs/reports/cta-2022-0919.pdf
+
+https://therecord.media/researchers-wikipedia-a-front-in-russian-propaganda-war/
