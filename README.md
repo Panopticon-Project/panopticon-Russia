@@ -440,3 +440,5 @@ https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/cion_def/l16cion_def212
 https://go.recordedfuture.com/hubfs/reports/cta-2022-0919.pdf
 
 https://therecord.media/researchers-wikipedia-a-front-in-russian-propaganda-war/
+
+https://www.recordedfuture.com/malign-influence-during-the-2022-us-midterm-elections-disinformation-misinformation
