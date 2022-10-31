@@ -442,3 +442,5 @@ https://go.recordedfuture.com/hubfs/reports/cta-2022-0919.pdf
 https://therecord.media/researchers-wikipedia-a-front-in-russian-propaganda-war/
 
 https://www.recordedfuture.com/malign-influence-during-the-2022-us-midterm-elections-disinformation-misinformation
+
+https://www.dailymail.co.uk/news/article-11368619/Liz-Trusss-personal-phone-hacked-Putins-spies-secret-details-negotiations.html
