@@ -448,3 +448,5 @@ https://www.dailymail.co.uk/news/article-11368619/Liz-Trusss-personal-phone-hack
 https://archive.ph/NYUNH
 
 https://www.usnews.com/news/world/articles/2022-10-27/slovak-parliament-suspends-voting-due-to-suspected-cyberattack
+
+https://blog.google/threat-analysis-group/tag-bulletin-q3-2022/
