@@ -450,3 +450,5 @@ https://archive.ph/NYUNH
 https://www.usnews.com/news/world/articles/2022-10-27/slovak-parliament-suspends-voting-due-to-suspected-cyberattack
 
 https://blog.google/threat-analysis-group/tag-bulletin-q3-2022/
+
+https://therecord.media/australian-federal-police-say-cybercriminals-in-russia-behind-medibank-hack/
