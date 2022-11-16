@@ -454,3 +454,7 @@ https://blog.google/threat-analysis-group/tag-bulletin-q3-2022/
 https://therecord.media/australian-federal-police-say-cybercriminals-in-russia-behind-medibank-hack/
 
 https://www.wired.com/story/russia-ukraine-cyberattacks-mandiant/
+
+https://www.zdg.md/stiri/stiri-sociale/reactii-dupa-ce-mai-multe-conversatii-atribuite-ministrului-justitiei-sergiu-litvinenco-au-fost-facute-publice-pe-un-site/
+
+https://moldova-leaks.com/
