@@ -458,3 +458,5 @@ https://www.wired.com/story/russia-ukraine-cyberattacks-mandiant/
 https://www.zdg.md/stiri/stiri-sociale/reactii-dupa-ce-mai-multe-conversatii-atribuite-ministrului-justitiei-sergiu-litvinenco-au-fost-facute-publice-pe-un-site/
 
 https://moldova-leaks.com/
+
+https://www.wired.com/story/moldova-leaks-google-privacy-settlement-world-cup-apps/
