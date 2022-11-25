@@ -460,3 +460,5 @@ https://www.zdg.md/stiri/stiri-sociale/reactii-dupa-ce-mai-multe-conversatii-atr
 https://moldova-leaks.com/
 
 https://www.wired.com/story/moldova-leaks-google-privacy-settlement-world-cup-apps/
+
+https://twitter.com/EP_President/status/1595443471518777345
