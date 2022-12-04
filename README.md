@@ -464,3 +464,5 @@ https://www.wired.com/story/moldova-leaks-google-privacy-settlement-world-cup-ap
 https://twitter.com/EP_President/status/1595443471518777345
 
 https://russiatweets.com/
+
+https://www.catholicnewsagency.com/news/252951/vatican-confirms-its-website-was-hacked
