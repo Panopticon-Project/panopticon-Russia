@@ -466,3 +466,9 @@ https://twitter.com/EP_President/status/1595443471518777345
 https://russiatweets.com/
 
 https://www.catholicnewsagency.com/news/252951/vatican-confirms-its-website-was-hacked
+
+https://blogs.microsoft.com/on-the-issues/2022/12/03/preparing-russian-cyber-offensive-ukraine/
+
+https://blogs.microsoft.com/on-the-issues/2022/04/27/hybrid-war-ukraine-russia-cyberattacks/
+
+https://blogs.microsoft.com/on-the-issues/2022/06/22/defending-ukraine-early-lessons-from-the-cyber-war/
