@@ -476,3 +476,5 @@ https://blogs.microsoft.com/on-the-issues/2022/06/22/defending-ukraine-early-les
 https://www.securityweek.com/ukraines-delta-military-intelligence-program-targeted-hackers
 
 https://www.wired.com/story/russia-cyberwar-ukraine-target-civilians/
+
+https://therecord.media/poland-warns-of-pro-kremlin-cyberattacks-aimed-at-destabilization
