@@ -478,3 +478,5 @@ https://www.securityweek.com/ukraines-delta-military-intelligence-program-target
 https://www.wired.com/story/russia-cyberwar-ukraine-target-civilians/
 
 https://therecord.media/poland-warns-of-pro-kremlin-cyberattacks-aimed-at-destabilization
+
+https://theintercept.com/2022/12/30/russia-china-news-media-agreement/
