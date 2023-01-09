@@ -480,3 +480,5 @@ https://www.wired.com/story/russia-cyberwar-ukraine-target-civilians/
 https://therecord.media/poland-warns-of-pro-kremlin-cyberattacks-aimed-at-destabilization
 
 https://theintercept.com/2022/12/30/russia-china-news-media-agreement/
+
+https://thehill.com/policy/cybersecurity/3738506-russias-cyber-forces-underperformed-expectations-in-ukraine-senior-us-official/
