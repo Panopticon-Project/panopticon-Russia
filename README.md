@@ -482,3 +482,5 @@ https://therecord.media/poland-warns-of-pro-kremlin-cyberattacks-aimed-at-destab
 https://theintercept.com/2022/12/30/russia-china-news-media-agreement/
 
 https://thehill.com/policy/cybersecurity/3738506-russias-cyber-forces-underperformed-expectations-in-ukraine-senior-us-official/
+
+https://carnegieendowment.org/2022/12/16/russia-s-wartime-cyber-operations-in-ukraine-military-impacts-influences-and-implications-pub-88657
