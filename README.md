@@ -486,3 +486,5 @@ https://thehill.com/policy/cybersecurity/3738506-russias-cyber-forces-underperfo
 https://carnegieendowment.org/2022/12/16/russia-s-wartime-cyber-operations-in-ukraine-military-impacts-influences-and-implications-pub-88657
 
 https://techletters.substack.com/p/techletters-cyber-insights-cyberoperation
+
+https://cip.gov.ua/en/news/doslidzhennya-zv-yazok-mizh-kiberatakami-konvenciinimi-ta-informaciinimi-atakami-v-ukrayini-vidpovidaye-rosiiskii-koncepciyi-gibridnoyi-viini
