@@ -488,3 +488,5 @@ https://carnegieendowment.org/2022/12/16/russia-s-wartime-cyber-operations-in-uk
 https://techletters.substack.com/p/techletters-cyber-insights-cyberoperation
 
 https://cip.gov.ua/en/news/doslidzhennya-zv-yazok-mizh-kiberatakami-konvenciinimi-ta-informaciinimi-atakami-v-ukrayini-vidpovidaye-rosiiskii-koncepciyi-gibridnoyi-viini
+
+https://therecord.media/ukraine-says-russia-is-coordinating-missile-strikes-cyberattacks-and-information-operations/
